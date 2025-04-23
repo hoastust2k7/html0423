@@ -1,0 +1,155 @@
+.container-flex {
+    display: flex;
+}
+
+.container-flex-direction-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-flex-direction-row-reverse {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.container-flex-direction-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-flex-direction-column-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.container-flex-justify-content-flex-start {
+    display: flex;
+    justify-content: flex-start;
+    background-color: lemonchiffon;
+}
+
+.container-flex-justify-content-flex-end {
+    display: flex;
+    justify-content: flex-end;
+    background-color: lemonchiffon;
+}
+
+.container-flex-justify-content-center {
+    display: flex;
+    justify-content: center;
+    background-color: lemonchiffon;
+}
+
+.container-flex-justify-content-space-between {
+    display: flex;
+    justify-content: space-between;
+    background-color: lemonchiffon;
+}
+
+.container-flex-justify-content-space-around {
+    display: flex;
+    justify-content: space-around;
+    background-color: lemonchiffon;
+}
+
+.container-flex-align-items-stretch {
+    display: flex;
+    align-items: stretch;
+    background-color: lemonchiffon;
+}
+
+.container-flex-align-items-flex-start {
+    display: flex;
+    align-items: flex-start;
+    background-color: lemonchiffon;
+}
+
+.container-flex-align-items-flex-end {
+    display: flex;
+    align-items: flex-end;
+    background-color: lemonchiffon;
+}
+
+.container-flex-align-items-center {
+    display: flex;
+    align-items: center;
+    background-color: lemonchiffon;
+}
+
+.container-flex-align-items-baseline {
+    display: flex;
+    align-items: baseline;
+    background-color: lemonchiffon;
+}
+
+.container-flex-flex-wrap-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lemonchiffon;
+}
+
+.container-flex-flex-wrap-wrap-reverse {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    background-color: lemonchiffon;
+}
+
+.container-flex-flex-wrap-nowrap {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: lemonchiffon;
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item1 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item2 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item3 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item4 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item5 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item6 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item7 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
+
+.item8 {
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue;
+}
